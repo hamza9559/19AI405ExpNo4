@@ -1,7 +1,7 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 
-## Name: MUKESH.R
-## Register Number: 212223240100
+## Name: HAMZA FAROOQUE
+## Register Number: 212223040054
 
 ## Aim:
 
